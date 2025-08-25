@@ -1159,7 +1159,7 @@
     {
       "scope": "variable.other.readwrite",
       "settings": {
-        "foreground": "#7AD9FB"
+        "foreground": "#94C1FA"
       }
     },
     {
@@ -1524,7 +1524,7 @@
     {
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#e76060"
+        "foreground": "#9b47db"
       }
     },
     {
@@ -2348,12 +2348,6 @@
       "scope": [" meta.brace.square"],
       "settings": {
         "foreground": "#D6D6DD"
-      }
-    },
-    {
-      "scope": [" meta.brace.round"],
-      "settings": {
-        "foreground": "#ffc800"
       }
     },
     {
