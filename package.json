@@ -3,6 +3,20 @@
   "displayName": "Mula",
   "description": "Mula Theme",
   "version": "0.0.1",
+  "publisher": "ChatrapathiKarthik",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chatrapathikarthik/Mula"
+  },
+  "keywords": [
+    "theme",
+    "mula",
+    "dark theme",
+    "mula theme",
+    "chatrapathikarthik",
+    "mula dark",
+    "best theme"
+  ],
   "engines": {
     "vscode": "^1.103.0"
   },
