@@ -1,6 +1,6 @@
 # Mula
 
-My awesome theme.
+Mula theme.
 
 ## Working with Markdown
 
