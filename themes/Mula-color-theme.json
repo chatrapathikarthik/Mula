@@ -234,7 +234,7 @@
     "titleBar.inactiveForeground": "#707070",
     "tree.indentGuidesStroke": "#cccccc55",
     "walkThrough.embeddedEditorBackground": "#141414",
-    "widget.shadow": "#00000066"
+    "widget.shadow": "#00000066",
 
     //"actionBar.toggledBackground": "#00000000",
     //"activityBar.activeBorder": "#cccccc99",
@@ -321,7 +321,7 @@
     //"debugView.valueChangedHighlight": "#569cd6",
     //"descriptionForeground": "#cccccc9b",
     //"diffEditor.diagonalFill": "#cccccc33",
-    ,"diffEditor.insertedLineBackground": "#99ffe415",
+    "diffEditor.insertedLineBackground": "#99ffe415",
     //"diffEditor.move.border": "#8b8b8b9c",
     //"diffEditor.moveActive.border": "#ffa500",
     "diffEditor.removedLineBackground": "#ff808015",
@@ -627,7 +627,7 @@
     //"statusBarItem.prominentForeground": "#cccccc82",
     //"statusBarItem.prominentHoverForeground": "#cccccc82",
     "statusBarItem.remoteBackground": "#ffc799",
-    "statusBarItem.remoteForeground": "#000000",
+    "statusBarItem.remoteForeground": "#000000"
     //"statusBarItem.remoteHoverBackground": "#404040",
     //"statusBarItem.remoteHoverForeground": "#cccccc82",
     //"statusBarItem.warningBackground": "#bf8b21",
@@ -1159,7 +1159,7 @@
     {
       "scope": "variable.other.readwrite",
       "settings": {
-        "foreground": "#94C1FA"
+        "foreground": "#7AD9FB"
       }
     },
     {
@@ -1524,7 +1524,7 @@
     {
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#EBC88D"
+        "foreground": "#e76060"
       }
     },
     {
