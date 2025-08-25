@@ -2,4 +2,4 @@
 
 Mula theme.
 
-![JavaScript Snippet]("js-snippet.png" "JavaScript Code Snippet")
+![JavaScript code editor showing syntax-highlighted programming code with dark theme and colorful syntax highlighting](themes/js-snippet.png)
